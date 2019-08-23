@@ -8,6 +8,6 @@ dependencies:
 - pillow
 - geopandas
 - scikit-learn
-- light-gbm
+- lightgbm
 - pip:
   - eo-learn
